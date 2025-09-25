@@ -15,9 +15,12 @@
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
+            <div class="logo-header">
+                <img src="assets/images/sc4rc-logo-leaf-white-transparent.png" alt="logo" class="logo">
+                <header class="major">
+                    <h1>{{ page.landing-title }}</h1>
+                </header>
+            </div>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
             </div>
@@ -56,3 +59,16 @@
 </body>
 
 </html>
+
+<style>
+.logo-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+#banner>.inner header {
+    width: 100%;
+}
+
+</style>
