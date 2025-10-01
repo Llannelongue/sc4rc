@@ -20,6 +20,32 @@ show_tile: false
 - field-agnostic and field-specific best practices
 - changing user behaviour and incentivising sustainable computing practices (e.g. addressing external drivers)
 
+<!-- Partner logos -->
+<div class="box">
+  <h3>Support and Endorsements</h3>
+  <p>
+    This conference is made possible with the support and endorsement of a number of international interdisciplinary research organisations:
+  </p>
+
+  <div class="logo-row">
+    <a href="https://home.cern/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/cern-logo.png %}" alt="CERN" />
+    </a>
+    <a href="http://sps.ch/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/sps-logo.png %}" alt="SPS" />
+    </a>
+    <a href="https://wellcome.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/wellcome-logo-white.png %}" alt="Wellcome" />
+    </a>
+    <a href="https://www.embl.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/embl-logo.png %}" alt="EMBL" />
+    </a>
+    <a href="http://embo.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/embo-logo.png %}" alt="EMBO" />
+    </a>
+  </div>
+</div>
+
 <!-- Spotlight sections -->
 <section id="two" class="spotlights">
 	<section>

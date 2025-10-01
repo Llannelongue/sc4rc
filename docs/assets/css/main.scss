@@ -78,3 +78,36 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+/* Make all logos uniform */
+
+.logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.logo-row a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-row img {
+  height: 100px;
+  width: auto;
+  display: block;
+}
+
+.logo-row a {
+  border: none !important;
+  text-decoration: none !important;
+}
+
+.logo-row a:hover {
+  border: none !important;
+  text-decoration: none !important;
+}
