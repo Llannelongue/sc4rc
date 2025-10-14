@@ -24,7 +24,7 @@ show_tile: false
 <div class="box">
   <h3>Support and Endorsements</h3>
   <p>
-    This conference is made possible with the support and endorsement of a number of international interdisciplinary research organisations:
+    This conference is made possible with the support and endorsement of a number of international research organisations:
   </p>
 
   <div class="logo-row">
