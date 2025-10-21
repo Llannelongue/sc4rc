@@ -60,7 +60,7 @@ show_tile: false
 				<header class="major">
 					<h3>Registration</h3>
 				</header>
-				<p>Registration will be open soon and early-bird tickets will be made available at a discounted rate. Discounted options for students will also be available. </p>
+				<p>Registration will open early November and early-bird tickets will be made available at a discounted rate. Discounted options for students will also be available. </p>
 				<ul class="actions">
 					<li><a href="https://indico.cern.ch/event/1526482/page/38180-registration-info" class="button">Register now</a></li>
 				</ul>
@@ -74,9 +74,9 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Call for participation</h3>
+					<h3>Call for submissions</h3>
 				</header>
-				<p>We will open a call to submit abstracts for oral presentations or posters, and an option to run short interactive sessions on a topic of your choice. Check back in in the coming weeks for more information.</p>
+				<p>We invite researchers, computing professionals, sustainability practitioners, and policy makers to submit abstracts to present their work at the conference through oral presentations or posters and/or run short interactive sessions on a topic of their choice.</p>
 				<ul class="actions">
 					<li><a href="https://indico.cern.ch/event/1526482/abstracts/" class="button">Learn more</a></li>
 				</ul>
@@ -84,3 +84,9 @@ show_tile: false
 		</div>
 	</section>
 </section>
+
+<!-- <div class="content">
+	<ul class="actions">
+		<li><a href="https://indico.cern.ch/event/1526482/" class="button">More info on the Event page</a></li>
+	</ul>
+</div> -->
