@@ -42,7 +42,7 @@ Topics covered in this conference will include (but are not limited to!):
 				</header>
 				<p>Registration will open early November and early-bird tickets will be made available at a discounted rate. Discounted options for students will also be available. </p>
 				<ul class="actions">
-					<li><a href="https://indico.cern.ch/event/1526482/page/38180-registration-info" class="button">Register now</a></li>
+					<li><a href="https://indico.cern.ch/event/1526482/page/38180-registration-info" class="button">See registration details</a></li>
 				</ul>
 			</div>
 		</div>
@@ -56,9 +56,12 @@ Topics covered in this conference will include (but are not limited to!):
 				<header class="major">
 					<h3>Call for submissions</h3>
 				</header>
-				<p>We invite researchers, computing professionals, sustainability practitioners, and policy makers to submit abstracts to present their work at the conference through oral presentations or posters and/or run short interactive sessions on a topic of their choice.</p>
+				<p>We invite researchers, computing professionals, sustainability practitioners, and policy makers to submit abstracts to present their work at the conference through oral presentations, posters and/or short interactive sessions on a topic of their choice. <b> Deadline for abstract submissions: 27/02/2026.</b> <br> <i> Note there will be no formal proceedings for this first edition of SC4RC 2026. Please feel free to present published research, or work that will be submitted for publication elsewhere. </i></p>
+
+				
+
 				<ul class="actions">
-					<li><a href="https://indico.cern.ch/event/1526482/abstracts/" class="button">Learn more</a></li>
+					<li><a href="https://indico.cern.ch/event/1526482/abstracts/" class="button">Learn more and submit</a></li>
 				</ul>
 			</div>
 		</div>
