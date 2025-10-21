@@ -8,11 +8,13 @@ author: null
 show_tile: false
 ---
 
-<p>Computing plays a vital role in many areas of research supporting modelling, simulation and data analysis across disciplines ranging from literature and economics, to medicine and astrophysics. Its use has a significant negative impact on the environment, from raw material extraction and processing in production of computing hardware, through energy use in its operation, to its decommissioning and reuse/recycling.  The demand for higher capacity and efficacy of hardware and software tools, as well as increasing dataset size, suggests these environmental impacts will continue to grow, unless synergies between sustainable research practices, resource optimisation and impact mitigation are recognised and exploited.</p>
+__Environmental sustainability is becoming a growing part of how we do research, especially for those of us using computing in our work. The goal of this conference is to bring together researchers across disciplines (life sciences, physics, astronomy, engineering, AI, computer science, chemistry, environmental sciences, digital humanities and any other you can think of!) to discuss what we can do in this space, share best practices, and showcase great efforts in this space.__
 
-<p>All research communities have a responsibility to limit the environmental impacts of their activities, and there is a pressing need for a coordinated and interdisciplinary focus on computing impacts. This conference aims to facilitate knowledge exchange between data-intensive disciplines, allowing the sharing of best practice, the development of common resources, and the catalysis of new interdisciplinary collaborations.</p>
+Computing plays a vital role in many areas of research: supporting modelling, simulation and data analysis across disciplines (from literature and economics, to medicine and astrophysics). Its use has a significant negative impact on the environment; from raw material extraction and processing, through operational energy use, to its decommissioning and reuse/recycling.  The continuous demand for more computing power and bigger datasets suggests these environmental impacts will continue to grow, unless synergies between sustainable research practices, resource optimisation, and impact mitigation are recognised and exploited.
 
-<p>Topics covered in this conference will include:</p>
+All research communities have a responsibility to limit the environmental impacts of their activities, and there is a pressing need for a coordinated and interdisciplinary focus on computing impacts. This conference aims to facilitate knowledge exchange between data-intensive disciplines, allowing the sharing of best practice, the development of common resources, and the catalysis of new interdisciplinary collaborations.
+
+Topics covered in this conference will include (but are not limited to!):
 - Estimation and monitoring of environmental impacts and energy usage of computing,
 - responsible use of computing hardware (sustainable procurement, extending and optimising use phase, responsible disposal),
 - resource-efficient software,
@@ -22,32 +24,6 @@ show_tile: false
 - community building and training,
 - general and field-specific best practices, and
 - changing user behaviour and incentivising sustainable computing practices (addressing e.g. external drivers).
-
-<!-- Partner logos -->
-<div class="box">
-  <h3>Support and Endorsements</h3>
-  <p>
-    This conference is made possible with the support and endorsement of a number of international research organisations:
-  </p>
-
-  <div class="logo-row">
-    <a href="https://home.cern/" target="_blank" rel="noopener">
-      <img src="{% link assets/images/cern-logo.png %}" alt="CERN" />
-    </a>
-    <a href="http://sps.ch/" target="_blank" rel="noopener">
-      <img src="{% link assets/images/sps-logo.png %}" alt="SPS" />
-    </a>
-    <a href="https://wellcome.org/" target="_blank" rel="noopener">
-      <img src="{% link assets/images/wellcome-logo-white.png %}" alt="Wellcome" />
-    </a>
-    <a href="https://www.embl.org/" target="_blank" rel="noopener">
-      <img src="{% link assets/images/embl-logo.png %}" alt="EMBL" />
-    </a>
-    <a href="http://embo.org/" target="_blank" rel="noopener">
-      <img src="{% link assets/images/embo-logo.png %}" alt="EMBO" />
-    </a>
-  </div>
-</div>
 
 <!-- Spotlight sections -->
 <section id="two" class="spotlights">
@@ -84,6 +60,34 @@ show_tile: false
 		</div>
 	</section>
 </section>
+
+<p style="margin-bottom:.7cm;"></p>
+
+<!-- Partner logos -->
+<div class="box">
+  <h3>Support and Endorsements</h3>
+  <p>
+    This conference is made possible with the support and endorsement of a number of international research organisations across disciplines:
+  </p>
+
+  <div class="logo-row">
+    <a href="https://home.cern/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/cern-logo.png %}" alt="CERN" />
+    </a>
+    <a href="http://sps.ch/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/sps-logo.png %}" alt="SPS" />
+    </a>
+    <!-- <a href="https://wellcome.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/wellcome-logo-white.png %}" alt="Wellcome" />
+    </a> -->
+    <a href="https://www.embl.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/embl-logo.png %}" alt="EMBL" />
+    </a>
+    <a href="http://embo.org/" target="_blank" rel="noopener">
+      <img src="{% link assets/images/embo-logo.png %}" alt="EMBO" />
+    </a>
+  </div>
+</div>
 
 <!-- <div class="content">
 	<ul class="actions">
