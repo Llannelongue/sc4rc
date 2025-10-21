@@ -25,6 +25,10 @@ Topics covered in this conference will include (but are not limited to!):
 - general and field-specific best practices, and
 - changing user behaviour and incentivising sustainable computing practices (addressing e.g. external drivers).
 
+<div class="box">
+	Any questions? You can reach out to us at <a href="mailto:info@sc4rc.org">info@sc4rc.org</a>
+</div>
+
 <!-- Spotlight sections -->
 <section id="two" class="spotlights">
 	<section>
@@ -62,6 +66,49 @@ Topics covered in this conference will include (but are not limited to!):
 </section>
 
 <p style="margin-bottom:.7cm;"></p>
+
+<div class="box" style="margin-bottom:.7cm;">
+	<h3>Organising Committee</h3>
+
+	<table>
+        <tr>
+            <td>Anica Araneta</td>
+            <td>University of Cambridge, UK</td>
+        </tr>
+        <tr>
+            <td>Auroop Ganguly</td>
+            <td>Northeastern University, Boston, USA</td>
+        </tr>
+        <tr>
+            <td>Grant Hill</td>
+            <td>University of Sheffield, UK</td>
+        </tr>
+        <tr>
+            <td>Loïc Lannelongue (Co-Chair)</td>
+            <td>University of Cambridge, UK</td>
+        </tr>
+        <tr>
+            <td>Rakhi Mahbubani (Co-Chair)</td>
+            <td>Rudjer Boskovic Institute, Croatia</td>
+        </tr>
+        <tr>
+            <td>Peter Millington</td>
+            <td>University of Manchester, UK</td>
+        </tr>
+        <tr>
+            <td>Ayan Paul</td>
+            <td>Northeastern University, Boston, USA</td>
+        </tr>
+        <tr>
+            <td>Karolos Potamianos</td>
+            <td>University of Warwick, UK</td>
+        </tr>
+        <tr>
+            <td>Markus Schulz</td>
+            <td>CERN, Switzerland</td>
+        </tr>
+    </table>
+</div>
 
 <!-- Partner logos -->
 <div class="box">
