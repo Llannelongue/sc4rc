@@ -8,7 +8,11 @@ author: null
 show_tile: false
 ---
 
-__Environmental sustainability is becoming a growing part of how we do research, especially for those of us using computing in our work. The goal of this conference is to bring together researchers across disciplines (life sciences, physics, astronomy, engineering, AI, computer science, chemistry, environmental sciences, digital humanities and any other you can think of!) to discuss what we can do in this space, share best practices, and showcase great efforts in this space.__
+__Environmental sustainability is a growing concern among researchers, especially those of us making intensive use of computing resources in our work. 
+The goal of this conference is to bring together researchers across 
+disciplines (life sciences, physics, astronomy, engineering, AI, 
+computer science, chemistry, environmental sciences, digital humanities 
+and any other you can think of!) to discuss the challenges, share best practices, and showcase great efforts in this space.__
 
 Computing plays a vital role in many areas of research: supporting modelling, simulation and data analysis across disciplines (from literature and economics, to medicine and astrophysics). Its use has a significant negative impact on the environment; from raw material extraction and processing, through operational energy use, to its decommissioning and reuse/recycling.  The continuous demand for more computing power and bigger datasets suggests these environmental impacts will continue to grow, unless synergies between sustainable research practices, resource optimisation, and impact mitigation are recognised and exploited.
 
