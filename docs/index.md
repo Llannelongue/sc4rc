@@ -44,7 +44,7 @@ Topics covered in this conference will include (but are not limited to!):
 				<header class="major">
 					<h3>Registration</h3>
 				</header>
-				<p>Registration will open early November and early-bird tickets will be made available at a discounted rate. Discounted options for students will also be available. </p>
+				<p>Registration is now open until 10 April 2026. Get your early-bird tickets for a discounted rate only until 27 February 2026.</p>
 				<ul class="actions">
 					<li><a href="https://indico.cern.ch/event/1526482/page/38180-registration-info" class="button">See registration details</a></li>
 				</ul>
